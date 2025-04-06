@@ -21,7 +21,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
-    "langchain": "^0.1.30",
+    "langchain": "^0.1.37",
     "ws": "^8.16.0"
   },
   "devDependencies": {
